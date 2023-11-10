@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	background: #DAD299;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #B0DAB9, #DAD299);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #B0DAB9, #DAD299); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+span
+{
+	font-size: 15px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	opacity: 0.9;
+}
